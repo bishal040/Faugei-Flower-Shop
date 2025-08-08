@@ -10,7 +10,7 @@
 
 ## ✅ Main Requirements (50 Marks)
 
-### 1. Navbar
+### 1. Navbar done
 
 - **Logo/Website name** on the left
 - **Menu items** on the right with **cart icon**
